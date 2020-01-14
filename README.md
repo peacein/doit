@@ -11,3 +11,17 @@
 - 원래 저장소( ) 로 돌아와 pull requests에 등록되었는지 확인하세요.
 - 오픈 소스 소유자가 pull request를 검토한 후 merge합니다. 
   (추가 정보가 필요하다면 merge하지 않고 의견을 보내기도 합니다.)
+
+ENGLISH
+
+Pull requirest practice
+
+This repositoy is for editing and pull-requesting.
+
+- fork this repository to your repository
+- clone this repository to your local repository
+- edit demo.txt and push
+- make new pull request
+- return to your repository and check if pull request is done
+- The open source owner will check the pull request and merge
+  (if any other information is needed, the owner may ask for more information without merging)
