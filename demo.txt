@@ -7,3 +7,5 @@ Do it, contribute~
 1st practice
 
 ----------------------------------
+
+learning Git to be a contributor to an open-source ecosystem. thanks.
