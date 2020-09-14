@@ -1,4 +1,4 @@
-깃허브에서 컨트리뷰션을 연습해 봅시다. 
+i깃허브에서 컨트리뷰션을 연습해 봅시다. 
 아래에 원하는 내용을 추가해 보세요.
 
 ----------------------------------
@@ -7,3 +7,5 @@ Do it, contribute~
 1st practice
 
 ----------------------------------
+
+Am studying in order to contribute on open source community`
