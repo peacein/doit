@@ -6,4 +6,6 @@
 Do it, contribute~
 1st practice
 
-----------------------------------
+---------------------------------
+
+Studying to contribute to open source.
