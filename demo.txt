@@ -8,4 +8,4 @@ Do it, contribute~
 
 ---------------------------------
 
-Studying to contribute in open source.
+Studying to contribute to open source.
