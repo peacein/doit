@@ -7,3 +7,6 @@ Do it, contribute~
 1st practice
 
 ----------------------------------
+
+2021-07-29 Git&Github 공부중입니다.
+Do it Git&Github
