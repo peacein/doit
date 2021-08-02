@@ -1,0 +1,3 @@
+I made a new file for doit repository
+
+Git 을 이해하는데 많은 도움이 되었습니다. 감사합니다.
