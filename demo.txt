@@ -7,3 +7,8 @@ Do it, contribute~
 1st practice
 
 ----------------------------------
+
+git opensource contribution test
+1. fork the target opensource repository to my remote repo.
+2. clone to my local repo.
+3. edit and commit and then push.
