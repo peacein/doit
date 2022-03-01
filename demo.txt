@@ -7,3 +7,5 @@ Do it, contribute~
 1st practice
 
 ----------------------------------
+
+modify doit clone
