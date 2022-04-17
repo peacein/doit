@@ -7,3 +7,5 @@ Do it, contribute~
 1st practice
 
 ----------------------------------
+오픈 소스에 기여하는 연습 중입니다.
+기여하고자 하는 Repository를 fork를 통해 복제해온 후, PR을 올리면 됩니다!
