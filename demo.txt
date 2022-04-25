@@ -6,4 +6,5 @@
 Do it, contribute~
 1st practice
 
+Am I able to be contributer for your git?
 ----------------------------------
