@@ -7,3 +7,5 @@ Do it, contribute~
 1st practice
 
 ----------------------------------
+
+I am doing practice for opensource project THX
