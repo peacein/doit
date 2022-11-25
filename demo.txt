@@ -8,3 +8,5 @@ Do it, contribute~
 
 ----------------------------------
 hello world
+my name is minha
+haha
